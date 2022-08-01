@@ -371,7 +371,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_0_value",
+          "text": "fixed acidity",
           "value": "feature_0_value"
         }
       },
@@ -428,7 +428,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_0_value",
+          "text": "fixed acidity",
           "value": "feature_0_value"
         }
       },
@@ -552,7 +552,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_0_value",
+          "text": "fixed acidity",
           "value": "feature_0_value"
         }
       },
@@ -678,7 +678,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_0_value",
+          "text": "fixed acidity",
           "value": "feature_0_value"
         }
       },
@@ -752,7 +752,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_1_value",
+          "text": "volatile acidity",
           "value": "feature_1_value"
         }
       },
@@ -812,7 +812,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_1_value",
+          "text": "volatile acidity",
           "value": "feature_1_value"
         }
       },
@@ -939,7 +939,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_1_value",
+          "text": "volatile acidity",
           "value": "feature_1_value"
         }
       },
@@ -1068,7 +1068,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_1_value",
+          "text": "volatile acidity",
           "value": "feature_1_value"
         }
       },
@@ -1142,7 +1142,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_2_value",
+          "text": "citric acid",
           "value": "feature_2_value"
         }
       },
@@ -1202,7 +1202,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_2_value",
+          "text": "citric acid",
           "value": "feature_2_value"
         }
       },
@@ -1329,7 +1329,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_2_value",
+          "text": "citric acid",
           "value": "feature_2_value"
         }
       },
@@ -1458,7 +1458,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_2_value",
+          "text": "citric acid",
           "value": "feature_2_value"
         }
       },
@@ -1532,7 +1532,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_3_value",
+          "text": "residual sugar",
           "value": "feature_3_value"
         }
       },
@@ -1592,7 +1592,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_3_value",
+          "text": "residual sugar",
           "value": "feature_3_value"
         }
       },
@@ -1719,7 +1719,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_3_value",
+          "text": "residual sugar",
           "value": "feature_3_value"
         }
       },
@@ -1848,7 +1848,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_3_value",
+          "text": "residual sugar",
           "value": "feature_3_value"
         }
       },
@@ -1922,7 +1922,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_4_value",
+          "text": "chlorides",
           "value": "feature_4_value"
         }
       },
@@ -1982,7 +1982,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_4_value",
+          "text": "chlorides",
           "value": "feature_4_value"
         }
       },
@@ -2109,7 +2109,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_4_value",
+          "text": "chlorides",
           "value": "feature_4_value"
         }
       },
@@ -2238,7 +2238,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_4_value",
+          "text": "chlorides",
           "value": "feature_4_value"
         }
       },
@@ -2312,7 +2312,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_5_value",
+          "text": "free sulfur dioxide",
           "value": "feature_5_value"
         }
       },
@@ -2372,7 +2372,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_5_value",
+          "text": "free sulfur dioxide",
           "value": "feature_5_value"
         }
       },
@@ -2499,7 +2499,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_5_value",
+          "text": "free sulfur dioxide",
           "value": "feature_5_value"
         }
       },
@@ -2628,7 +2628,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_5_value",
+          "text": "free sulfur dioxide",
           "value": "feature_5_value"
         }
       },
@@ -2702,7 +2702,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_6_value",
+          "text": "total sulfur dioxide",
           "value": "feature_6_value"
         }
       },
@@ -2762,7 +2762,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_6_value",
+          "text": "total sulfur dioxide",
           "value": "feature_6_value"
         }
       },
@@ -2889,7 +2889,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_6_value",
+          "text": "total sulfur dioxide",
           "value": "feature_6_value"
         }
       },
@@ -3018,7 +3018,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_6_value",
+          "text": "total sulfur dioxide",
           "value": "feature_6_value"
         }
       },
@@ -3092,7 +3092,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_7_value",
+          "text": "density",
           "value": "feature_7_value"
         }
       },
@@ -3152,7 +3152,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_7_value",
+          "text": "density",
           "value": "feature_7_value"
         }
       },
@@ -3279,7 +3279,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_7_value",
+          "text": "density",
           "value": "feature_7_value"
         }
       },
@@ -3408,7 +3408,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_7_value",
+          "text": "density",
           "value": "feature_7_value"
         }
       },
@@ -3482,7 +3482,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_8_value",
+          "text": "pH",
           "value": "feature_8_value"
         }
       },
@@ -3542,7 +3542,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_8_value",
+          "text": "pH",
           "value": "feature_8_value"
         }
       },
@@ -3669,7 +3669,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_8_value",
+          "text": "pH",
           "value": "feature_8_value"
         }
       },
@@ -3798,7 +3798,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_8_value",
+          "text": "pH",
           "value": "feature_8_value"
         }
       },
@@ -3872,7 +3872,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_9_value",
+          "text": "sulphates",
           "value": "feature_9_value"
         }
       },
@@ -3932,7 +3932,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_9_value",
+          "text": "sulphates",
           "value": "feature_9_value"
         }
       },
@@ -4059,7 +4059,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_9_value",
+          "text": "sulphates",
           "value": "feature_9_value"
         }
       },
@@ -4188,7 +4188,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_9_value",
+          "text": "sulphates",
           "value": "feature_9_value"
         }
       },
@@ -4262,7 +4262,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_10_value",
+          "text": "alcohol",
           "value": "feature_10_value"
         }
       },
@@ -4322,7 +4322,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_10_value",
+          "text": "alcohol",
           "value": "feature_10_value"
         }
       },
@@ -4449,7 +4449,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_10_value",
+          "text": "alcohol",
           "value": "feature_10_value"
         }
       },
@@ -4578,7 +4578,7 @@
       "scopedVars": {
         "continuous": {
           "selected": false,
-          "text": "feature_10_value",
+          "text": "alcohol",
           "value": "feature_10_value"
         }
       },

@@ -31,7 +31,7 @@ def main():
     model = RandomForestRegressor()
     model.fit(X_train, Y_train)
     Y_pred = model.predict(X_test)
-    Y_pred = np.round(Y_pred, 2)
+    Y_pred = np.round(Y_pred)
     print("Score: %.2f" % r2_score(Y_test, Y_pred))
     with open("./model.pkl", "wb") as f:
         pickle.dump(model, f)

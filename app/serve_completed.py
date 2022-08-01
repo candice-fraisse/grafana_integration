@@ -1,5 +1,6 @@
 import pickle
 
+import numpy as np
 from boxkite.monitoring.collector import BaselineMetricCollector
 from boxkite.monitoring.service import ModelMonitoringService
 from flask import Flask, request
@@ -17,7 +18,7 @@ app = Flask(__name__)
 @app.route("/", methods=["POST"])
 def predict():
     features = request.json
-    score = model.predict([features])[0]
+    score = np.round(model.predict([features])[0])
     pid = monitor.log_prediction(
         request_body=request.data,
         features=features,
