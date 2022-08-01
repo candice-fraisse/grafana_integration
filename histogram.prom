@@ -1,0 +1,233 @@
+# HELP feature_0_value_baseline Baseline values for feature: fixed acidity
+# TYPE feature_0_value_baseline histogram
+feature_0_value_baseline_bucket{le="0.037"} 1.0
+feature_0_value_baseline_bucket{le="7.160458333333333"} 7.0
+feature_0_value_baseline_bucket{le="14.283916666666666"} 9.0
+feature_0_value_baseline_bucket{le="21.407375"} 9.0
+feature_0_value_baseline_bucket{le="28.53083333333333"} 9.0
+feature_0_value_baseline_bucket{le="35.654291666666666"} 9.0
+feature_0_value_baseline_bucket{le="42.77775"} 10.0
+feature_0_value_baseline_bucket{le="49.90120833333333"} 10.0
+feature_0_value_baseline_bucket{le="57.02466666666666"} 10.0
+feature_0_value_baseline_bucket{le="64.14812500000001"} 10.0
+feature_0_value_baseline_bucket{le="71.27158333333334"} 10.0
+feature_0_value_baseline_bucket{le="78.39504166666667"} 10.0
+feature_0_value_baseline_bucket{le="85.5185"} 10.0
+feature_0_value_baseline_bucket{le="92.64195833333333"} 10.0
+feature_0_value_baseline_bucket{le="99.76541666666667"} 10.0
+feature_0_value_baseline_bucket{le="106.888875"} 10.0
+feature_0_value_baseline_bucket{le="114.01233333333333"} 10.0
+feature_0_value_baseline_bucket{le="121.13579166666666"} 10.0
+feature_0_value_baseline_bucket{le="128.25925"} 10.0
+feature_0_value_baseline_bucket{le="135.38270833333334"} 10.0
+feature_0_value_baseline_bucket{le="142.50616666666667"} 10.0
+feature_0_value_baseline_bucket{le="149.629625"} 10.0
+feature_0_value_baseline_bucket{le="156.75308333333334"} 10.0
+feature_0_value_baseline_bucket{le="163.87654166666667"} 10.0
+feature_0_value_baseline_bucket{le="171.0"} 11.0
+feature_0_value_baseline_bucket{le="+Inf"} 11.0
+feature_0_value_baseline_count 11.0
+feature_0_value_baseline_sum 235.1037
+# HELP feature_1_value_baseline Baseline values for feature: volatile acidity
+# TYPE feature_1_value_baseline histogram
+feature_1_value_baseline_bucket{le="0.05"} 1.0
+feature_1_value_baseline_bucket{le="7.752941176470587"} 7.0
+feature_1_value_baseline_bucket{le="15.455882352941176"} 9.0
+feature_1_value_baseline_bucket{le="23.158823529411762"} 10.0
+feature_1_value_baseline_bucket{le="30.86176470588235"} 10.0
+feature_1_value_baseline_bucket{le="38.56470588235293"} 10.0
+feature_1_value_baseline_bucket{le="46.26764705882352"} 10.0
+feature_1_value_baseline_bucket{le="53.97058823529411"} 10.0
+feature_1_value_baseline_bucket{le="61.6735294117647"} 10.0
+feature_1_value_baseline_bucket{le="69.37647058823528"} 10.0
+feature_1_value_baseline_bucket{le="77.07941176470587"} 10.0
+feature_1_value_baseline_bucket{le="84.78235294117646"} 10.0
+feature_1_value_baseline_bucket{le="92.48529411764704"} 10.0
+feature_1_value_baseline_bucket{le="100.18823529411763"} 10.0
+feature_1_value_baseline_bucket{le="107.89117647058822"} 10.0
+feature_1_value_baseline_bucket{le="115.59411764705881"} 10.0
+feature_1_value_baseline_bucket{le="123.2970588235294"} 10.0
+feature_1_value_baseline_bucket{le="131.0"} 11.0
+feature_1_value_baseline_bucket{le="+Inf"} 11.0
+feature_1_value_baseline_count 11.0
+feature_1_value_baseline_sum 173.22560000000001
+# HELP feature_2_value_baseline Baseline values for feature: citric acid
+# TYPE feature_2_value_baseline histogram
+feature_2_value_baseline_bucket{le="0.06"} 1.0
+feature_2_value_baseline_bucket{le="2.268"} 6.0
+feature_2_value_baseline_bucket{le="4.475999999999999"} 8.0
+feature_2_value_baseline_bucket{le="6.683999999999998"} 8.0
+feature_2_value_baseline_bucket{le="8.892"} 8.0
+feature_2_value_baseline_bucket{le="11.1"} 11.0
+feature_2_value_baseline_bucket{le="+Inf"} 11.0
+feature_2_value_baseline_count 11.0
+feature_2_value_baseline_sum 42.94572
+# HELP feature_3_value_baseline Baseline values for feature: residual sugar
+# TYPE feature_3_value_baseline histogram
+feature_3_value_baseline_bucket{le="0.0"} 1.0
+feature_3_value_baseline_bucket{le="2.08"} 6.0
+feature_3_value_baseline_bucket{le="4.16"} 7.0
+feature_3_value_baseline_bucket{le="6.24"} 8.0
+feature_3_value_baseline_bucket{le="8.32"} 8.0
+feature_3_value_baseline_bucket{le="10.4"} 11.0
+feature_3_value_baseline_bucket{le="+Inf"} 11.0
+feature_3_value_baseline_count 11.0
+feature_3_value_baseline_sum 41.865700000000004
+# HELP feature_4_value_baseline Baseline values for feature: chlorides
+# TYPE feature_4_value_baseline histogram
+feature_4_value_baseline_bucket{le="0.088"} 1.0
+feature_4_value_baseline_bucket{le="7.4704"} 7.0
+feature_4_value_baseline_bucket{le="14.852799999999998"} 9.0
+feature_4_value_baseline_bucket{le="22.2352"} 10.0
+feature_4_value_baseline_bucket{le="29.6176"} 10.0
+feature_4_value_baseline_bucket{le="37.0"} 11.0
+feature_4_value_baseline_bucket{le="+Inf"} 11.0
+feature_4_value_baseline_count 11.0
+feature_4_value_baseline_sum 80.3252
+# HELP feature_5_value_baseline Baseline values for feature: free sulfur dioxide
+# TYPE feature_5_value_baseline histogram
+feature_5_value_baseline_bucket{le="0.016"} 1.0
+feature_5_value_baseline_bucket{le="7.784"} 7.0
+feature_5_value_baseline_bucket{le="15.552"} 9.0
+feature_5_value_baseline_bucket{le="23.319999999999997"} 9.0
+feature_5_value_baseline_bucket{le="31.087999999999997"} 10.0
+feature_5_value_baseline_bucket{le="38.855999999999995"} 10.0
+feature_5_value_baseline_bucket{le="46.623999999999995"} 10.0
+feature_5_value_baseline_bucket{le="54.391999999999996"} 10.0
+feature_5_value_baseline_bucket{le="62.16"} 10.0
+feature_5_value_baseline_bucket{le="69.928"} 10.0
+feature_5_value_baseline_bucket{le="77.696"} 10.0
+feature_5_value_baseline_bucket{le="85.464"} 10.0
+feature_5_value_baseline_bucket{le="93.232"} 10.0
+feature_5_value_baseline_bucket{le="101.0"} 11.0
+feature_5_value_baseline_bucket{le="+Inf"} 11.0
+feature_5_value_baseline_count 11.0
+feature_5_value_baseline_sum 160.70785999999998
+# HELP feature_6_value_baseline Baseline values for feature: total sulfur dioxide
+# TYPE feature_6_value_baseline histogram
+feature_6_value_baseline_bucket{le="0.078"} 1.0
+feature_6_value_baseline_bucket{le="4.662400000000001"} 7.0
+feature_6_value_baseline_bucket{le="9.2468"} 9.0
+feature_6_value_baseline_bucket{le="13.8312"} 10.0
+feature_6_value_baseline_bucket{le="18.4156"} 10.0
+feature_6_value_baseline_bucket{le="23.0"} 11.0
+feature_6_value_baseline_bucket{le="+Inf"} 11.0
+feature_6_value_baseline_count 11.0
+feature_6_value_baseline_sum 55.99369999999999
+# HELP feature_7_value_baseline Baseline values for feature: density
+# TYPE feature_7_value_baseline histogram
+feature_7_value_baseline_bucket{le="0.076"} 1.0
+feature_7_value_baseline_bucket{le="7.300923076923077"} 7.0
+feature_7_value_baseline_bucket{le="14.525846153846155"} 9.0
+feature_7_value_baseline_bucket{le="21.750769230769233"} 9.0
+feature_7_value_baseline_bucket{le="28.97569230769231"} 10.0
+feature_7_value_baseline_bucket{le="36.20061538461539"} 10.0
+feature_7_value_baseline_bucket{le="43.425538461538466"} 10.0
+feature_7_value_baseline_bucket{le="50.65046153846154"} 10.0
+feature_7_value_baseline_bucket{le="57.87538461538462"} 10.0
+feature_7_value_baseline_bucket{le="65.1003076923077"} 10.0
+feature_7_value_baseline_bucket{le="72.32523076923077"} 10.0
+feature_7_value_baseline_bucket{le="79.55015384615385"} 10.0
+feature_7_value_baseline_bucket{le="86.77507692307692"} 10.0
+feature_7_value_baseline_bucket{le="94.0"} 11.0
+feature_7_value_baseline_bucket{le="+Inf"} 11.0
+feature_7_value_baseline_count 11.0
+feature_7_value_baseline_sum 142.37286
+# HELP feature_8_value_baseline Baseline values for feature: pH
+# TYPE feature_8_value_baseline histogram
+feature_8_value_baseline_bucket{le="0.058"} 1.0
+feature_8_value_baseline_bucket{le="9.7551"} 8.0
+feature_8_value_baseline_bucket{le="19.4522"} 9.0
+feature_8_value_baseline_bucket{le="29.149300000000004"} 9.0
+feature_8_value_baseline_bucket{le="38.8464"} 9.0
+feature_8_value_baseline_bucket{le="48.5435"} 9.0
+feature_8_value_baseline_bucket{le="58.24060000000001"} 10.0
+feature_8_value_baseline_bucket{le="67.9377"} 10.0
+feature_8_value_baseline_bucket{le="77.63480000000001"} 10.0
+feature_8_value_baseline_bucket{le="87.33190000000002"} 10.0
+feature_8_value_baseline_bucket{le="97.02900000000001"} 10.0
+feature_8_value_baseline_bucket{le="106.72610000000002"} 10.0
+feature_8_value_baseline_bucket{le="116.42320000000002"} 10.0
+feature_8_value_baseline_bucket{le="126.12030000000001"} 10.0
+feature_8_value_baseline_bucket{le="135.8174"} 10.0
+feature_8_value_baseline_bucket{le="145.5145"} 10.0
+feature_8_value_baseline_bucket{le="155.2116"} 10.0
+feature_8_value_baseline_bucket{le="164.9087"} 10.0
+feature_8_value_baseline_bucket{le="174.60580000000002"} 10.0
+feature_8_value_baseline_bucket{le="184.3029"} 10.0
+feature_8_value_baseline_bucket{le="194.0"} 11.0
+feature_8_value_baseline_bucket{le="+Inf"} 11.0
+feature_8_value_baseline_count 11.0
+feature_8_value_baseline_sum 284.69589999999994
+# HELP feature_9_value_baseline Baseline values for feature: sulphates
+# TYPE feature_9_value_baseline histogram
+feature_9_value_baseline_bucket{le="0.031"} 1.0
+feature_9_value_baseline_bucket{le="7.327899999999999"} 8.0
+feature_9_value_baseline_bucket{le="14.624799999999999"} 10.0
+feature_9_value_baseline_bucket{le="21.921699999999994"} 10.0
+feature_9_value_baseline_bucket{le="29.218599999999995"} 10.0
+feature_9_value_baseline_bucket{le="36.515499999999996"} 10.0
+feature_9_value_baseline_bucket{le="43.81239999999999"} 10.0
+feature_9_value_baseline_bucket{le="51.10929999999999"} 10.0
+feature_9_value_baseline_bucket{le="58.40619999999999"} 10.0
+feature_9_value_baseline_bucket{le="65.70309999999999"} 10.0
+feature_9_value_baseline_bucket{le="73.0"} 11.0
+feature_9_value_baseline_bucket{le="+Inf"} 11.0
+feature_9_value_baseline_count 11.0
+feature_9_value_baseline_sum 109.94195
+# HELP feature_10_value_baseline Baseline values for feature: alcohol
+# TYPE feature_10_value_baseline histogram
+feature_10_value_baseline_bucket{le="0.107"} 1.0
+feature_10_value_baseline_bucket{le="7.9128125"} 7.0
+feature_10_value_baseline_bucket{le="15.718625"} 9.0
+feature_10_value_baseline_bucket{le="23.524437499999998"} 9.0
+feature_10_value_baseline_bucket{le="31.33025"} 9.0
+feature_10_value_baseline_bucket{le="39.1360625"} 10.0
+feature_10_value_baseline_bucket{le="46.941874999999996"} 10.0
+feature_10_value_baseline_bucket{le="54.7476875"} 10.0
+feature_10_value_baseline_bucket{le="62.5535"} 10.0
+feature_10_value_baseline_bucket{le="70.3593125"} 10.0
+feature_10_value_baseline_bucket{le="78.165125"} 10.0
+feature_10_value_baseline_bucket{le="85.9709375"} 10.0
+feature_10_value_baseline_bucket{le="93.77674999999999"} 10.0
+feature_10_value_baseline_bucket{le="101.5825625"} 10.0
+feature_10_value_baseline_bucket{le="109.388375"} 10.0
+feature_10_value_baseline_bucket{le="117.1941875"} 10.0
+feature_10_value_baseline_bucket{le="125.0"} 11.0
+feature_10_value_baseline_bucket{le="+Inf"} 11.0
+feature_10_value_baseline_count 11.0
+feature_10_value_baseline_sum 186.1948
+# HELP inference_value_baseline Baseline inference values for test set
+# TYPE inference_value_baseline histogram
+inference_value_baseline_bucket{le="0.61"} 1.0
+inference_value_baseline_bucket{le="0.6596428571428571"} 1.0
+inference_value_baseline_bucket{le="0.7092857142857143"} 1.0
+inference_value_baseline_bucket{le="0.7589285714285714"} 1.0
+inference_value_baseline_bucket{le="0.8085714285714286"} 4.0
+inference_value_baseline_bucket{le="0.8582142857142857"} 5.0
+inference_value_baseline_bucket{le="0.9078571428571429"} 8.0
+inference_value_baseline_bucket{le="0.9575"} 11.0
+inference_value_baseline_bucket{le="1.0071428571428571"} 341.0
+inference_value_baseline_bucket{le="1.0567857142857142"} 675.0
+inference_value_baseline_bucket{le="1.1064285714285715"} 836.0
+inference_value_baseline_bucket{le="1.1560714285714286"} 965.0
+inference_value_baseline_bucket{le="1.2057142857142857"} 1046.0
+inference_value_baseline_bucket{le="1.255357142857143"} 1128.0
+inference_value_baseline_bucket{le="1.3050000000000002"} 1202.0
+inference_value_baseline_bucket{le="1.3546428571428573"} 1270.0
+inference_value_baseline_bucket{le="1.4042857142857144"} 1316.0
+inference_value_baseline_bucket{le="1.4539285714285715"} 1353.0
+inference_value_baseline_bucket{le="1.5035714285714286"} 1401.0
+inference_value_baseline_bucket{le="1.5532142857142857"} 1424.0
+inference_value_baseline_bucket{le="1.602857142857143"} 1449.0
+inference_value_baseline_bucket{le="1.6525000000000003"} 1471.0
+inference_value_baseline_bucket{le="1.7021428571428574"} 1497.0
+inference_value_baseline_bucket{le="1.7517857142857145"} 1520.0
+inference_value_baseline_bucket{le="1.8014285714285716"} 1542.0
+inference_value_baseline_bucket{le="1.8510714285714287"} 1559.0
+inference_value_baseline_bucket{le="1.9007142857142858"} 1581.0
+inference_value_baseline_bucket{le="1.950357142857143"} 1599.0
+inference_value_baseline_bucket{le="2.0"} 1625.0
+inference_value_baseline_bucket{le="+Inf"} 1625.0
+inference_value_baseline_count 1625.0
+inference_value_baseline_sum 1961.3400000000001
